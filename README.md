@@ -26,5 +26,5 @@ Here are some of my projects:
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/taynareis/)
-- [Email](taynareis07@gmail.com)
+- Email: taynareis07@gmail.com
 
