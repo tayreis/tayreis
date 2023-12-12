@@ -21,7 +21,7 @@ Currently, I'm focusing on Web Development, but my university studies and insati
 
 ## 💼 Projects (work in progress...)
 Here are some of my projects:
-- **[Landing Page]:** I recently developed a unique landing page for the sale of a digital marketing eBook. The key focus of this project was to ensure high responsiveness and to break away from the conventional long-scrolling format typically seen in landing pages. By prioritizing a concise and user-friendly design, the landing page offers an engaging and efficient user experience, tailored to effectively showcase the eBook and its benefits to potential customers. [[Link to the Project](https://github.com/tayreis/lp-a-chave-do-lucro-digital)]
+- **[Landing Page]:** [[Link to the Project](https://github.com/tayreis/lp-a-chave-do-lucro-digital)]
 - **[Dashboard Admin]:** I'm currently developing a personal-use admin dashboard. This in-progress project features a login screen, data visualization graphs, and user and product management functionalities. It's designed to efficiently handle administrative tasks with plans for further enhancements. [[Link to the Project](https://github.com/tayreis/dashboard)]
 
 ## 📫 How to Reach Me
