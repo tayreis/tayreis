@@ -19,10 +19,8 @@ Currently, I'm focusing on Web Development, but my university studies and insati
 - **Databases:** PostgreSQL | MySQL | MongoDB
 - **DevOps:** Docker | GitHub
 
-## 💼 Projects (work in progress...)
-Here are some of my projects:
-- **[Landing Page]:** [[Link to the Project](https://github.com/tayreis/lp-a-chave-do-lucro-digital)]
-- **[Dashboard Admin]:** I'm currently developing a personal-use admin dashboard. This in-progress project features a login screen, data visualization graphs, and user and product management functionalities. It's designed to efficiently handle administrative tasks with plans for further enhancements. [[Link to the Project](https://github.com/tayreis/dashboard)]
+## 💼 Projects 
+(work in progress...)
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/taynareis/)
