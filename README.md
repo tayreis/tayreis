@@ -1,11 +1,14 @@
 # ⭐ Hi, I'm Tayná!
 
-## 🚀 About Me
-An entrepreneur by nature, I've journeyed through diverse realms, from photography to t-shirt retail and screen printing, even venturing into the healthy food business. Alongside, I discovered stability and passion in Digital Marketing, serving as a Paid Traffic Manager and Social Media Specialist since 2019.
+💻 Frontend Developer | 🎯 Digital Marketing Specialist | 🚀 Tech Enthusiast
 
-Programming entered my life in 2021, thanks to my programmer husband who introduced me to Python, confident I would enjoy it – and he was right 😂. Initially, I dove into studying, but soon other priorities took precedence, pausing my learning journey. In 2022, the need to develop a website for a personal project reignited my interest, leading me to resume my studies and delve into the fascinating world of Programming. Around this time, driven by my ongoing interest, I also began studying System Analysis and Development at university.
+Started in digital marketing (2019), discovered coding in 2021, and never looked back. Now, I craft user-friendly web experiences while continuously expanding my tech skills.
 
-Currently, I'm focusing on Web Development, but my university studies and insatiable curiosity keep me expanding my knowledge beyond this niche.
+🔹 Focus: Frontend Development (React, JavaScript, UI/UX)
+🔹 Background in Paid Traffic & Social Media
+🔹 Always learning & building cool stuff
+
+Let's connect! 🚀
 
 <div>
 <a href="https://github.com/tayreis">
