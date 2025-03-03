@@ -2,10 +2,12 @@
 
 💻 Frontend Developer | 🎯 Digital Marketing Specialist | 🚀 Tech Enthusiast
 
-Started in digital marketing (2019), discovered coding in 2021, and never looked back. Now, I craft user-friendly web experiences while continuously expanding my tech skills.
+Started in digital marketing (2019), discovered coding in 2023, and never looked back. Now, I craft user-friendly web experiences while continuously expanding my tech skills.
 
 🔹 Focus: Frontend Development (React, JavaScript, UI/UX)
+
 🔹 Background in Paid Traffic & Social Media
+
 🔹 Always learning & building cool stuff
 
 Let's connect! 🚀
