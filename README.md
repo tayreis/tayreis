@@ -14,8 +14,8 @@ Let's connect! 🚀
 
 <div>
 <a href="https://github.com/tayreis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayreis&layout=compact&langs_count=7&theme=radical"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tayreis&theme=radical&show_icons=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayreis&layout=compact&langs_count=10&theme=panda"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tayreis&theme=panda&show_icons=true"/>
 </div>
 
 ## 🛠️ Technical Skills (work in progress...)
