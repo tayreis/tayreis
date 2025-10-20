@@ -1,33 +1,40 @@
-# ⭐ Hi, I'm Tayná!
+# 👋 Hi, I'm Tayná Reis  
 
-💻 Frontend Developer | 🎯 Digital Marketing Specialist | 🚀 Tech Enthusiast
+💻 **Frontend Developer** | 🎯 **Digital Strategist** | 🚀 **Tech-Driven Creator**
 
-Started in digital marketing (2019), discovered coding in 2023, and never looked back. Now, I craft user-friendly web experiences while continuously expanding my tech skills.
+I bridge **creativity and code** — blending marketing vision with front-end development to build intuitive, high-impact digital experiences.  
 
-🔹 Focus: Frontend Development (React, JavaScript, UI/UX)
+🌱 Started in digital marketing (2019), discovered coding in 2023, and never looked back.  
+Now I focus on crafting clean interfaces, scalable architectures, and meaningful user journeys.  
 
-🔹 Background in Paid Traffic & Social Media
+---
 
-🔹 Always learning & building cool stuff
+### ⚡️ What I’m Working With  
+- **Frontend:** React • Next.js • TypeScript • Tailwind CSS • shadcn/ui • Radix UI • Framer Motion • lucide-react • React Admin  
+- **Backend & Cloud:** Node.js • Deno (Supabase Edge Functions) • Java (Spring) • Firebase Admin SDK • Strapi (Headless CMS)  
+- **Data:** PostgreSQL (Supabase) • Firestore  
+- **DevOps & Hosting:** Netlify (CSP/headers) • Vercel (quando preciso) • Docker • GitHub Actions  
+- **Payments, Email & Analytics:** Stripe • Resend • Google Tag Manager • Meta Conversions API • Metabase  
+- **Automation & AI Workflows:** n8n • OpenAI (assistants/prompts)  
 
-Let's connect! 🚀
+> Also comfortable with: HTML/ARIA, accessibility-first UI, design tokens, and product-led growth experiments.
 
-<div>
-<a href="https://github.com/tayreis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayreis&layout=compact&langs_count=10&theme=panda"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tayreis&theme=panda&show_icons=true"/>
-</div>
+---
 
-## 🛠️ Technical Skills (work in progress...)
-- **Front-end:** React | Next.js | HTML | CSS | TypeScript
-- **Back-end:** Node.js | Django | Python | Java
-- **Databases:** PostgreSQL | MySQL | MongoDB
-- **DevOps:** Docker | GitHub
+### 🎯 My Focus  
+- UI/UX and Frontend Architecture  
+- Building tools that empower creators  
+- Combining tech, strategy, and design to create real digital impact  
 
-## 💼 Projects 
-(work in progress...)
+---
 
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/taynareis/)
-- Email: taynareis07@gmail.com
+### 🧩 Projects  
+> *Some of my favorite works are still behind the scenes… stay tuned 👀*  
 
+---
+
+### 📫 Connect With Me  
+🌐 [LinkedIn](https://www.linkedin.com/in/taynareis/)  
+📧 **taynareis07@gmail.com**  
+
+> “Code with clarity. Create with purpose.” ✨
